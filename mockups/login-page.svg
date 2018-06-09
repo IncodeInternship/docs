@@ -49,9 +49,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.22627417"
-     inkscape:cx="365.64032"
-     inkscape:cy="479.49851"
+     inkscape:zoom="1.28"
+     inkscape:cx="1084.4161"
+     inkscape:cy="637.32648"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -116,7 +116,7 @@
          id="tspan5186"
          x="253.96666"
          y="123.38785"
-         style="font-size:8.46666718px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458335">Sign into 'Launch Menu' app</tspan></text>
+         style="font-size:8.46666718px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458335">Sign into 'Lunch Menu' app</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02004722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1447-3-6-7"
@@ -186,5 +186,27 @@
          x="193.93132"
          id="tspan5186-0-6"
          sodipodi:role="line">You don't have an acount? Please, sign up.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3b3b3b;fill-opacity:1;stroke:none;stroke-width:0.26458335;font-variant:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east_asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
+       x="242.12709"
+       y="139.61252"
+       id="text5188-5-5"><tspan
+         sodipodi:role="line"
+         id="tspan5186-3-3"
+         x="242.12709"
+         y="139.61252"
+         style="font-size:4.93888903px;fill:#3b3b3b;fill-opacity:1;stroke-width:0.26458335;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east_asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;">somebody@somewhere.com</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46666718px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3b3b3b;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="242.12709"
+       y="156.66437"
+       id="text5188-5-5-4"><tspan
+         sodipodi:role="line"
+         id="tspan5186-3-3-3"
+         x="242.12709"
+         y="156.66437"
+         style="font-size:4.93888855px;fill:#3b3b3b;fill-opacity:1;stroke-width:0.26458335">*****************</tspan></text>
   </g>
 </svg>
