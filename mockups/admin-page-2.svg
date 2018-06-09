@@ -50,10 +50,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="786.32694"
-     inkscape:cy="736.06932"
+     inkscape:cx="844.57801"
+     inkscape:cy="465.6004"
      inkscape:document-units="px"
-     inkscape:current-layer="g1404"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1317"
      inkscape:window-height="744"
@@ -83,7 +83,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -464,6 +464,28 @@
          d="m 163.77693,285.49061 -3.96875,3.96875 3.96875,3.96875 z"
          id="path1424-6"
          inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5300-2-3"
+       transform="translate(111.12498,-22.425487)">
+      <rect
+         y="168.61298"
+         x="224.89584"
+         height="10.583333"
+         width="95.25"
+         id="rect1447-3-6-7-2-2-0-6"
+         style="fill:#303030;fill-opacity:1;stroke:none;stroke-width:0.02196063;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text5188-7-2-7"
+         y="176.166"
+         x="272.53119"
+         style="font-style:normal;font-weight:normal;font-size:8.46666718px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffff65;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+         xml:space="preserve"><tspan
+           style="font-size:8.46666718px;text-align:center;text-anchor:middle;fill:#ffff65;fill-opacity:1;stroke-width:0.26458335"
+           y="176.166"
+           x="272.53119"
+           id="tspan5186-0-3-5"
+           sodipodi:role="line">Сформировать заказ</tspan></text>
     </g>
   </g>
 </svg>
