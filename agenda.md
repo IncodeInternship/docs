@@ -5,7 +5,7 @@
 ### Frontend application, ReactJS + ReduxJS
 
 1.  [Git](https://git-scm.com/).
-2.  [ReactJS](https://reactjs.org/).
+2.  [ReactJS](https://reactjs.org/), [lifecycle methods](https://twitter.com/dan_abramov/status/981712092611989509).
 3.  [Material-UI](https://material-ui.com/).
 4.  [ReduxJS](https://redux.js.org/).
 5.  [Redux Thunk](https://github.com/reduxjs/redux-thunk).
