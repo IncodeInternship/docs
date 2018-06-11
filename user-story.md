@@ -2,7 +2,7 @@
 
 > ## Application name
 
-`launch-menu`
+`lunch-menu`
 
 ---
 
