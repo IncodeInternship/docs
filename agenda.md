@@ -18,6 +18,7 @@
 12. Best practices.
 13. UI testing, [Jest](https://facebook.github.io/jest/), [Enzyme](https://github.com/airbnb/enzyme).
 14. Javascript [event loop](https://medium.com/front-end-hacking/javascript-event-loop-explained-4cd26af121d4), ([video](https://www.youtube.com/watch?v=8aGhZQkoFbQ)).
+15. Mocking data, [Faker](https://www.npmjs.com/package/faker).
 
 ## Week 2
 
